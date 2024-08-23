@@ -50,6 +50,11 @@ El cuaderno se estructura en las siguientes secciones:
   El recomendador Pro, donde se ofrece un plan de distintos cursos sobre la misma temática que de forma organizada y estructurada completarán la formación adquirida.
 
 
+### 5. Futuros pasos: DAFO
+
+  Se ha realizado un análisis DAFO (Debilidades, Amenazas, Fortalezas, Oportunidades) para evaluar la utilidad actual y los posibles futuros pasos de nuestro sistema de recomendación.
+
+
 
 
 ## Librerías Utilizadas
