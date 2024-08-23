@@ -1,5 +1,5 @@
 
-# Sistema de Recomendación de Cursos de Udemy
+# Sistema de Recomendación de Cursos de Udemy - RecoMMachine
 
 Este proyecto consiste en la construcción de un sistema de recomendación utilizando datos de un conjunto de cursos de Udemy. El cuaderno realiza un análisis exploratorio de datos, un análisis predictivo y finalmente construye un sistema de recomendación basado en los títulos de los cursos.
 
